@@ -19,7 +19,6 @@ opt.smartcase = true -- if you include mixed case in your search, assumes you wa
 
 -- cursor line
 opt.cursorline = true -- highlight the current cursor line
-
 -- appearance
 
 -- turn on termguicolors for nightfly colorscheme to work
@@ -41,3 +40,5 @@ opt.splitbelow = true -- split horizontal window to the bottom
 -- turn off swapfile
 opt.swapfile = false
 vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+
